@@ -1,7 +1,7 @@
 {
-  "name": "forest-theme",
-  "displayName": "forest-theme",
-  "description": "A forest theme for vscode",
+  "name": "earthy-theme",
+  "displayName": "earthy-theme",
+  "description": "A earth tone theme for vscode",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.85.0"
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Forest Theme",
+        "label": "Earthy Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Forest Theme-color-theme.json"
+        "path": "./themes/Earthy Theme-color-theme.json"
       }
     ]
   }

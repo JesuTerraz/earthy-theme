@@ -1,4 +1,4 @@
-# forest-theme README
+# earthy-theme README
 
 ## Working with Markdown
 
