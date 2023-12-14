@@ -1,10 +1,19 @@
 {
   "name": "earthy-theme",
-  "displayName": "earthy-theme",
+  "displayName": "Earthy Theme",
   "description": "A earth tone theme for vscode",
+  "publisher": "JesuTerraz",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.85.0"
+  },
+  "author": {
+    "name": "Jesus Terrazas",
+    "email": "jesu.terraz@gmail.com",
+  },
+  "repository": {
+    "url": "https://github.com/JesuTerraz/earthy-theme.git",
+    "type": "git"
   },
   "categories": [
     "Themes"
